@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srjkmrpro
 - 👀 I’m interested in Learning and Experimenting new things.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning/working with React Native and NodeJS.
 - 📫 You can reach me on srj.kmr.pro@gmail.com
 
 <!---
